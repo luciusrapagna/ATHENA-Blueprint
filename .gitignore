@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+data/raw/*
+data/processed/*
+outputs/word/*
+outputs/excel/*
+outputs/pdf/*
+outputs/figures/*
+logs/*
+
+!.gitkeep
+.env
+.DS_Store
+Thumbs.db
